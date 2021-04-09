@@ -4,6 +4,6 @@
 
 Restart your termianal after sucessful installation
 
-# Download your youtube vids by simply typing "youtube" and hit enter 
+# Runing: Download your youtube vids by simply navigating to the directory you want the video to be saved then type "youtube" and hit enter 
 
-# Note. You might need to chmod the scripts 
+`youtube`
