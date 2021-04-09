@@ -2,4 +2,4 @@
 
 pip install pytube
 
-echo "alias youtube='~/Documents/dev-projects/youtube_downloder/youtube_downloder.py'" >> ~/.bash_profile
+echo "alias youtube='~/youtube_downloder/youtube_downloder.py'" >> ~/.bash_profile
